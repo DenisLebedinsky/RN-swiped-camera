@@ -1,0 +1,2 @@
+- swiping screen
+- using camera 
